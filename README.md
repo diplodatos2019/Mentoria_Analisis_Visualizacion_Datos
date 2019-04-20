@@ -22,6 +22,8 @@ Los Datasets que se sera usado, se pude descargar del siguiente link de Google D
 
 **Importante:** Se recomienda descargar los 3 CSVs y ubicarlos en el diretorio `Datasets`.
 
+> [Ver Descripcion del Dataset](./Dataset_Description.md)
+
 
 Instalación
 -----------
